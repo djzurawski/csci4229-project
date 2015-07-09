@@ -1,0 +1,28 @@
+
+Final Project - Daniel Zurawski
+
+Rotating Bicycle wheel with reflective sidewall.
+
+Pretty straight forward. Rim sidewalls look reflective but not real reflections. 
+Axle threading uses two sided lighting. Spent a lot of time trying to get shadows but I
+could not wrap my head around it, and what I did get working was not right at all.
+
+
+ *  Key bindings:
+ *  l          Toggles lighting
+ *  F1         Toggle smooth/flat shading
+ *  m          Toggles movement
+ *  []         Lower/rise light
+ *  +/-        Change field of view of perspective
+ *  x          Toggle axes
+ *  arrows     Change view angle
+ *  PgDn/PgUp  Zoom in and out
+ *  a/d        Rotate wheel along x-axis
+ *  w/s        Rotate wheel along y-axis
+ *  < >        Move Camera along x-axis 
+ *  Home,End   Move Camera along z-axis
+ *  / '        move Camera along y-axis
+ *  0          Reset view angle
+ *  ESC        Exit
+ */
+
